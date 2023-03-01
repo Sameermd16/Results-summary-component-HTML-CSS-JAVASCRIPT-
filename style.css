@@ -159,6 +159,7 @@ body{
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1.2fr;
         border-radius: 0;
+        max-width: 400px;
     }
     .grid{
         border-radius: 0;
@@ -177,5 +178,8 @@ body{
     }
     .attribution{
         font-size: 14px;
+    }
+    .second_grid{
+        padding-left: 30px;
     }
 }
